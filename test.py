@@ -1,1 +1,1 @@
-Pint("Wassup Buddy!! v8")
+Prit("Wassup Buddy!! v8")
