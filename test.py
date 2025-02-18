@@ -1,1 +1,1 @@
-Prit("Wassup Buddy!! v8")
+Print("Wassup Buddy!! v8")
